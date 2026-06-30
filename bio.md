@@ -11,3 +11,10 @@
 - Hobi: Belajar
 - Bahasa Pemrograman favorit: Python
 - Target setelah lulus: Bekerja di bidang ini, lalu sukses di dunia maupun di akhirat
+
+#Bio: Radityo Budi Waskito
+
+- NIM: 3337250058
+- Hobi: Mempelajari Hal Baru, untuk saat ini Cyber Security
+- Bahasa Pemrograman favorit: Python
+- Target setelah lulus: Founder Platform Cyber Security Training
